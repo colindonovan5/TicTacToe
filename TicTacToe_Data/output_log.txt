@@ -1,0 +1,296 @@
+Mono path[0] = 'C:/Users/pokef/Desktop/TicTacToe (2)-20210807T161248Z-001/TicTacToe (2)/TicTacToe_Data/Managed'
+Mono path[1] = 'C:/Users/pokef/Desktop/TicTacToe (2)-20210807T161248Z-001/TicTacToe (2)/TicTacToe_Data/Mono'
+Mono config path = 'C:/Users/pokef/Desktop/TicTacToe (2)-20210807T161248Z-001/TicTacToe (2)/TicTacToe_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/pokef/Desktop/TicTacToe (2)-20210807T161248Z-001/TicTacToe (2)/TicTacToe_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55454
+Multi-casting "[IP] 192.168.56.1 [Port] 55454 [Flags] 2 [Guid] 1641921630 [EditorId] 1411477455 [Version] 1048832 [Id] WindowsPlayer(D) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55454]
+PlayerConnection already initialized - listening to [0.0.0.0:55454]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   30.0.14.7111
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\pokef\Desktop\TicTacToe (2)-20210807T161248Z-001\TicTacToe (2)\TicTacToe_Data\Managed\System.dll (this message is harmless)
+desktop: 3440x1440 100Hz; virtual: 7920x1440 at -4480,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.675200 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.310400 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.141400 ms (FindLiveObjects: 0.013400 ms CreateObjectMapping: 0.009500 ms MarkObjects: 0.092300 ms  DeleteObjects: 0.025200 ms)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:21)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 21)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:22)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 22)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.817700 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.128300 ms (FindLiveObjects: 0.011300 ms CreateObjectMapping: 0.010300 ms MarkObjects: 0.098700 ms  DeleteObjects: 0.007300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.297400 ms
+System memory in use before: 16.1 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.127200 ms (FindLiveObjects: 0.008700 ms CreateObjectMapping: 0.008900 ms MarkObjects: 0.088100 ms  DeleteObjects: 0.020800 ms)
+
+2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:21)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 21)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:22)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 22)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342900 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.117300 ms (FindLiveObjects: 0.012200 ms CreateObjectMapping: 0.009100 ms MarkObjects: 0.087300 ms  DeleteObjects: 0.007900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362000 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.142500 ms (FindLiveObjects: 0.016300 ms CreateObjectMapping: 0.009300 ms MarkObjects: 0.111100 ms  DeleteObjects: 0.004600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.277800 ms
+System memory in use before: 16.1 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.142800 ms (FindLiveObjects: 0.010000 ms CreateObjectMapping: 0.011200 ms MarkObjects: 0.099100 ms  DeleteObjects: 0.021700 ms)
+
+3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:21)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 21)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:22)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 22)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.309700 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.154400 ms (FindLiveObjects: 0.019900 ms CreateObjectMapping: 0.009700 ms MarkObjects: 0.113400 ms  DeleteObjects: 0.010200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.288700 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.112100 ms (FindLiveObjects: 0.010100 ms CreateObjectMapping: 0.009500 ms MarkObjects: 0.088000 ms  DeleteObjects: 0.003700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.316300 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.129800 ms (FindLiveObjects: 0.013900 ms CreateObjectMapping: 0.009200 ms MarkObjects: 0.101700 ms  DeleteObjects: 0.004100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.299300 ms
+System memory in use before: 16.1 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.134500 ms (FindLiveObjects: 0.009200 ms CreateObjectMapping: 0.008700 ms MarkObjects: 0.091400 ms  DeleteObjects: 0.024600 ms)
+
+4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:21)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 21)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:22)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 22)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.256800 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.128600 ms (FindLiveObjects: 0.011600 ms CreateObjectMapping: 0.011000 ms MarkObjects: 0.097200 ms  DeleteObjects: 0.007900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.302000 ms
+System memory in use before: 16.1 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.349300 ms (FindLiveObjects: 0.046300 ms CreateObjectMapping: 0.016000 ms MarkObjects: 0.237400 ms  DeleteObjects: 0.047900 ms)
+
+5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:21)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 21)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:22)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 22)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.255800 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.107600 ms (FindLiveObjects: 0.010100 ms CreateObjectMapping: 0.008700 ms MarkObjects: 0.080800 ms  DeleteObjects: 0.007300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.358700 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.113100 ms (FindLiveObjects: 0.009800 ms CreateObjectMapping: 0.009500 ms MarkObjects: 0.088500 ms  DeleteObjects: 0.004700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.310300 ms
+System memory in use before: 16.1 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.142900 ms (FindLiveObjects: 0.008400 ms CreateObjectMapping: 0.009800 ms MarkObjects: 0.099300 ms  DeleteObjects: 0.024700 ms)
+
+5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:21)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 21)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+GameOver:Start() (at E:\Unity Projects\TicTacToe\Assets\Scripts\GameOver.cs:22)
+ 
+(Filename: E:/Unity Projects/TicTacToe/Assets/Scripts/GameOver.cs Line: 22)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.313300 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.146700 ms (FindLiveObjects: 0.015200 ms CreateObjectMapping: 0.011500 ms MarkObjects: 0.109400 ms  DeleteObjects: 0.009400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.288000 ms
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.115300 ms (FindLiveObjects: 0.010400 ms CreateObjectMapping: 0.009200 ms MarkObjects: 0.091100 ms  DeleteObjects: 0.003900 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7950 -> priority: 1 
+  Thread -> id: 5310 -> priority: 1 
+  Thread -> id: 79b4 -> priority: 1 
+  Thread -> id: 5924 -> priority: 1 
